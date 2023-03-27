@@ -35,15 +35,5 @@ TCA, Abu Dhabi , United Arab Emirates 307501
 -	Agile, and Waterfall SDLC
 -	GIT, VSTS.
 -	Team Reporting, Solutions Deployment
+-	Managing software development team and project deliverables.
  
-Education
-2013 
-Anna University
-Chennai
-B. Tech: Information Technology
-2010 
-Government polytechnic
-Chennai
-Diploma: Information Technology
-
-.
