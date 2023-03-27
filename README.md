@@ -14,13 +14,14 @@
 
 
 
-##maharasas1992@gmail.com
- ##	+971 525696025
- 	Tourist Club Area
+## Contact
+- maharasas1992@gmail.com
+-	+971 525696025
+-	Tourist Club Area
 TCA, Abu Dhabi , United Arab Emirates 307501 
- 	India
- 	https://github.com/maharasa/
- 	https://www.linkedin.com/in/maharasa-s-397586162/
+ 	India 
+- https://github.com/maharasa/ 
+- https://www.linkedin.com/in/maharasa-s-397586162/
 ## Skills
 -	C#, .Net
 -	ASP.net Core, Web API, MVC
