@@ -22,10 +22,17 @@ TCA, Abu Dhabi , United Arab Emirates 307501
  	India 
 - https://github.com/maharasa/ 
 - https://www.linkedin.com/in/maharasa-s-397586162/
-## Open Source Project
-### Dev automoton -low code platform 
+## Own Product
+### DevAutomaton - Source code automation tool (low code platform)
+   This DevAutomaton application speed up software developmnet.
  https://github.com/maharasa/DevAutomaton
 ## Skills
+- Team building
+- Setting the project’s technical direction.
+- Conducting detailed assessments to make the right decisions 
+- Software delivery, code reviews and Technical Capacity Planning
+- Taking ownership of product or modules
+- Works with cross functional team: Achieve success through
 -	C#, .Net
 -	ASP.net Core, Web API, MVC
 -	Entity Framework Core, OData, GraphQL, and Linq
@@ -35,8 +42,9 @@ TCA, Abu Dhabi , United Arab Emirates 307501
 -	SSIS, SSRS, Power BI and Teleric report, Crystal report
 -	Azure, Azure PAAS (web job, Function app, Logic app, Azure storage, service bus)
 -	Microservices architecture
--	Agile, and Waterfall SDLC
+-	Agile product development, and Waterfall SDLC
 -	GIT, VSTS.
--	Team Reporting, Solutions Deployment
--	Managing software development team and project deliverables.
+- Compiling reports and working with other Tech Lead and Engineering Managers
+
+
  
