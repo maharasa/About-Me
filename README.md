@@ -26,7 +26,9 @@ TCA, Abu Dhabi , United Arab Emirates 307501
 ### DevAutomaton - Source code automation tool (low code platform)
   - Mordern way to write tech spec
   - source code automation
-  - source code generation against Tech spec
+  - source code generation against Tech spec.
+
+
    This DevAutomaton application speed up software development. More details
    
  https://github.com/maharasa/DevAutomaton
