@@ -23,7 +23,7 @@ TCA, Abu Dhabi , United Arab Emirates 307501
 - https://github.com/maharasa/ 
 - https://www.linkedin.com/in/maharasa-s-397586162/
 ## Introducing my very own and innovative product
-### DevAutomaton - Source code automation tool (low code platform)
+### DevAutomaton - Tech spec writer & Source code automation tool (low code platform)
   - Mordern way to write tech spec
   - source code automation
   - source code generation against Tech spec.
