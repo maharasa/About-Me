@@ -4,7 +4,7 @@
 
 ### Professional Summary  
 
-With 12+ years of extensive experience in software development, I specialize in designing and building scalable, high-performing applications while leading teams and managing projects effectively. Currently, I work as a consultant, leveraging my strong technology background and leadership skills to deliver innovative solutions. I am seeking a Senior Software Engineer or Architect role, focusing on full-stack development or AI/ML technologies.  
+With 12+ years of extensive experience in software development, I specialize in designing and building scalable, high-performing applications while leading and mentoring teams. Currently working as a consultant, I leverage my strong expertise in AI/ML and full-stack development to deliver innovative, data-driven solutions. My capabilities span the implementation of advanced machine learning models, fine-tuning large language models, developing enterprise-level Retrieval-Augmented Generation (RAG) systems, and creating robust, cloud-native applications. I combine technical excellence with leadership to drive success in complex, multidisciplinary projects.  
 
 ---
 
