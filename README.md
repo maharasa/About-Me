@@ -40,7 +40,7 @@ Consistently recognized as a top performer throughout my career, with multiple B
 
 ---
 
-### **Innovative Product**  
+### **Innovative Product (open source contribution)**  
 
 #### **DevAutomaton - Tech Spec Writer & Source Code Automation Tool (Low-Code Platform)**  
 
